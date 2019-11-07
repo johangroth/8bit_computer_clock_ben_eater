@@ -1,4 +1,4 @@
-16322441435950388
+16324014754845388
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -72895,8 +72895,8 @@ Barrel Jack RS Pro DC Socket 2.5mm - SMT
 
 
 0
-0
-0
+4
+3
 grotto
 FUSE_0154004.DR
 
@@ -72904,6 +72904,13 @@ FUSE_0154004.DR
 0
 2
 2
+grotto
+G3T12
+
+
+0
+9
+3
 grotto
 PLCC-32_THT-Socket
 PLCC, 32 pins, through hole
